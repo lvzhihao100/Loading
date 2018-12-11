@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:gravity="center"
-            android:text="加载中"
+            android:text="@string/load_loading"
             android:textColor="#999999"
             android:visibility="visible" />
 

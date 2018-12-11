@@ -73,7 +73,7 @@ public class ProgressDialogs {
     }
 
     public void showDialog() {
-        showDialog("加载中");
+        showDialog(context.getString(R.string.load_loading));
     }
 
     public void showDialog(String msg) {
